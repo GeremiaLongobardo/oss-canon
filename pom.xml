@@ -27,7 +27,7 @@
 
   <groupId>com.symphony.oss.canon</groupId>
 	<artifactId>oss-canon</artifactId>
-	<version>0.3.4-SNAPSHOT</version>
+	<version>0.3.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<url>https://github.com/SymphonyOSF/oss-canon</url>
