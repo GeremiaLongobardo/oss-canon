@@ -21,7 +21,7 @@
   <parent>
     <groupId>com.symphony.oss.canon</groupId>
     <artifactId>oss-canon</artifactId>
-    <version>0.3.6-SNAPSHOT</version>
+    <version>0.3.7-SNAPSHOT</version>
   </parent>
   <artifactId>canon-launch</artifactId>
   
@@ -29,33 +29,33 @@
     <dependency>
       <groupId>com.symphony.oss.canon</groupId>
       <artifactId>canon-parser</artifactId>
-      <version>0.3.6-SNAPSHOT</version>
+      <version>0.3.7-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.symphony.oss.canon</groupId>
       <artifactId>canon2-model</artifactId>
-      <version>0.3.6-SNAPSHOT</version>
+      <version>0.3.7-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.symphony.oss.canon</groupId>
       <artifactId>canon2-generator</artifactId>
-      <version>0.3.6-SNAPSHOT</version>
+      <version>0.3.7-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.symphony.oss.canon</groupId>
       <artifactId>canon2-generator-java</artifactId>
-      <version>0.3.6-SNAPSHOT</version>
+      <version>0.3.7-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.symphony.oss.canon</groupId>
       <artifactId>canon-template-java</artifactId>
-      <version>0.3.6-SNAPSHOT</version>
+      <version>0.3.7-SNAPSHOT</version>
     </dependency>
     
     <dependency>
       <groupId>com.symphony.oss.canon</groupId>
       <artifactId>canon-runtime-java</artifactId>
-      <version>0.3.6-SNAPSHOT</version>
+      <version>0.3.7-SNAPSHOT</version>
     </dependency>
     
     <dependency>

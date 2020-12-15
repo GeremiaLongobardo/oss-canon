@@ -22,12 +22,12 @@
 	<parent>
 		<groupId>com.symphony.oss</groupId>
 		<artifactId>oss-parent-pom</artifactId>
-		<version>0.4.3</version><!-- oss-parent-pom -->
+		<version>0.4.5</version><!-- oss-parent-pom -->
 	</parent>
 
   <groupId>com.symphony.oss.canon</groupId>
 	<artifactId>oss-canon</artifactId>
-	<version>0.3.6-SNAPSHOT</version>
+	<version>0.3.7-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<url>https://github.com/SymphonyOSF/oss-canon</url>
@@ -95,7 +95,7 @@
 		<source.code.version>1.8</source.code.version>
 		<target.code.version>1.8</target.code.version>
     <oss.commons.version>0.2.3</oss.commons.version>
-    <oss.fugue.version>0.2.28</oss.fugue.version>
+    <oss.fugue.version>0.2.29</oss.fugue.version>
 	</properties>
 
 

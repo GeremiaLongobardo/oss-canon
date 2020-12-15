@@ -160,4 +160,10 @@ public class ServletRequestContext extends AbstractRequestContext implements IAs
     streaming_ = false;
     response_.reset();  
   }
+
+  @Override
+  public Map<String, String> getStageVariables()
+  {
+    return null;
+  }
 }

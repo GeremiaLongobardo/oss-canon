@@ -29,6 +29,7 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.Writer;
 import java.util.List;
+import java.util.Map;
 
 import com.symphony.oss.canon.runtime.IBaseEntity;
 import com.symphony.oss.canon.runtime.IEntity;
@@ -134,5 +135,7 @@ public interface IRequestContext
   Writer startStreaming() throws IOException;
 
   void stopStreaming();
+  
+  public Map<String, String> getStageVariables();
   
 }
